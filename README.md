@@ -39,7 +39,7 @@ $ git clone https://github.com/allanlobato/Github-Viewer.git
 
 ```bash
 # Vá para o repositório Back-end
-$ cd github-explorer
+$ cd github-viewer
 # Instale as dependencias
 $ yarn
 # Para iniciar o servidor
@@ -56,10 +56,10 @@ React Refresh |
 Babel |
 Cross Env |
 Sass |
-Node Sass |
 CSS Loader | 
 Style Loader | 
-Webpack 
+Webpack |
+Vite
 
 ## 📝 License
 
