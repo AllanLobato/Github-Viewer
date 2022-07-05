@@ -53,13 +53,13 @@ Essas são as tecnologias utilizadas nesse projeto
 💻- React |
 React DOM |
 React Refresh |
+React Hooks |
 Babel |
-Cross Env |
-Sass |
-CSS Loader | 
-Style Loader | 
+Styled-Components |
 Webpack |
-Vite
+Vite |
+Axios |
+React Icons
 
 ## 📝 License
 
